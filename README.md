@@ -1,12 +1,37 @@
-# React + Vite
+# 🎯 Micro Animation Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun project experimenting with smooth animations using Framer Motion.
+This is more of a playground to explore micro-interactions, subtle effects, and making UI elements feel more alive.
 
-Currently, two official plugins are available:
+# 🚀 Features
+- Smooth scroll animations
+- Subtle hover effects
+- Animated sliders / transitions
+- Focus on micro-interactions for better UX
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 🛠 Tech Stack
+- React
+- Framer Motion for animations
 
-## Expanding the ESLint configuration
+# 📦 Installation & Setup
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+#### Clone the repo
+git clone https://github.com/tauhidpatel/ios-slider.git
+
+#### Go into the project folder
+cd ios-slider
+
+#### Install dependencies
+npm install
+
+#### Run the development server
+npm run dev
+
+📸 Preview
+
+(Add a screenshot or GIF of the animation here)
+
+💡 Why I Made This
+
+Sometimes, tiny animations make a huge difference in user experience.
+This project is just me having fun experimenting with smooth, fluid motion in UI.
