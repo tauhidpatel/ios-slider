@@ -3,6 +3,8 @@
 A fun project experimenting with smooth animations using Framer Motion.
 This is more of a playground to explore micro-interactions, subtle effects, and making UI elements feel more alive.
 
+URL : https://ios-slider-chi.vercel.app
+
 # 🚀 Features
 - Smooth scroll animations
 - Subtle hover effects
